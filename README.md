@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan
+- 👋 Hi, I’m Janski
 - 📫 How to reach me : janski.bellon@gmail.com
 - 🌐 Twitter : @JanskiBH
 
