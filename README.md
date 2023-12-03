@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Janski
+- 👋 Hi, I’m Jan
 - 📫 How to reach me : janski.bellon@gmail.com
-- 🌐 Twitter : @JanskiBH
+- 🌐 Twitter : @janbellon
 
 <!---
 janskibh/janskibh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
