@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan
-- 📫 How to reach me : janski.bellon@gmail.com
+- 📫 How to reach me : jan@intra.e59.fr
 - 🌐 Twitter : @janbellon
 
 <!---
